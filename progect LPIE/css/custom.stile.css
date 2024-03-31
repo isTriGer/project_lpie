@@ -1,0 +1,21 @@
+.custom-navbar-bg {
+background: rgb(107,21,152);
+background: linear-gradient(90deg, rgba(107,21,152,1) 0%, rgba(19,19,111,1) 50%, rgba(76,161,163,1) 100%);
+}
+
+.error-404-bg {
+background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(249,255,0,1) 20%, rgba(22,255,0,1) 40%, rgba(0,211,255,1) 60%, rgba(17,0,255,1) 80%, rgba(218,0,255,1) 100%);
+}
+
+.bg-1 {
+background: #418687
+}
+
+.bg-fb{
+background: #476869
+}
+
+.bg-color {
+background: #21094e
+}
